@@ -1,7 +1,3 @@
-Here is the **updated README.md** file with the correct authentication instructions for using a Hugging Face access token instead of LeetCode authentication:
-
----
-
 # 🧠 LeetCode GPT Teaching Assistant  
 
 ## 📌 Project Overview  
@@ -12,7 +8,8 @@ LeetCode GPT Teaching Assistant is an **AI-powered assistant** designed to help 
 ## 🏆 Author Details  
 - **Name:** Kanishk Jha  
 - **Email:** kanishkjha_co21a4_45@dtu.ac.in  
-- **Roll No.:** 2K21/CO/219  
+- **Roll No.:** 2K21/CO/219
+- **LinkedIn:** [Kanishk Jha](https://www.linkedin.com/in/jha02--kanishk/) 
 
 ---
 
