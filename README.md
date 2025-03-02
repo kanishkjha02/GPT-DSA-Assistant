@@ -9,7 +9,8 @@ LeetCode GPT Teaching Assistant is an **AI-powered assistant** designed to help 
 - **Name:** Kanishk Jha  
 - **Email:** kanishkjha_co21a4_45@dtu.ac.in  
 - **Roll No.:** 2K21/CO/219
-- **LinkedIn:** [Kanishk Jha](https://www.linkedin.com/in/jha02--kanishk/) 
+- **LinkedIn:** [Kanishk Jha](https://www.linkedin.com/in/jha02--kanishk/)
+- **Phone no.:** +91 7982571885
 
 ---
 
@@ -122,6 +123,7 @@ For a **detailed demo of how the assistant works**, watch the video here:
 ---
 
 ## 💡 Future Improvements  
+- Implement Similar Problems feature.
 - Add **voice-based interaction** using Speech-to-Text.  
 - Implement **a leaderboard** to track problem-solving progress.  
 - Support **multiple programming languages** for custom solutions.  
@@ -160,15 +162,4 @@ This project is open-source under the **MIT License**.
 
 ---
 
-## 🔗 Contact  
-For any queries, feel free to reach out:  
-📧 **Email:** kanishkjha_co21a4_45@dtu.ac.in  
-📌 **LinkedIn:** [Kanishk Jha](https://www.linkedin.com/in/jha02--kanishk/)  
-
----
-
 ### ✅ **Star ⭐ this repository if you found it helpful!** 🚀  
-
----
-
-This README **clearly explains** the **setup, authentication, and usage** of the project. Let me know if you need any changes! 🚀
